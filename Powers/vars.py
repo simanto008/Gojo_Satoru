@@ -66,7 +66,7 @@ class Development:
     API_ID = 22521059  # Your APP_ID from Telegram
     API_HASH = "8674b279c685c96dc7bf5710642fb898"  # Your APP_HASH from Telegram
     OWNER_ID = 6741151244  # Your telegram user id defult to mine
-    MESSAGE_DUMP = 1  # Your Private Group ID for logs if not passed your owner id will be msg dump
+    MESSAGE_DUMP = -1002690833372  # Your Private Group ID for logs if not passed your owner id will be msg dump
     DEV_USERS = []
     SUDO_USERS = []
     WHITELIST_USERS = []
